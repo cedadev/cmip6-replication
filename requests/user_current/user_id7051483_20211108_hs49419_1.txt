@@ -1,0 +1,11 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf-data3.ceda.ac.uk
+variable_id=ua
+experiment_id=dcppA-hindcast
+source_id=EC-Earth3
+protocol=http
+
+# note - most of this data we had already - just filling in a gap where for one particular
+# start date / ensemble member it was missing
