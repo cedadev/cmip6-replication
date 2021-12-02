@@ -8,4 +8,4 @@ source_id=CanESM5
 protocol=http
 
 # note - request file created using the add file github feature 
-# I don't know how many synda requests this will be, gave it a default value of 1
+
