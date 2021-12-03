@@ -5,7 +5,8 @@ data_node!=esgf-data3.ceda.ac.uk
 variable_id=psl tas pr
 experiment_id=dcppA-hindcast
 source_id=CanESM5
-variant_label=r1i1p2f1 r2i1p2f1
+#variant_label=r1i1p2f1 r2i1p2f1
+frequency=mon
 protocol=http
 
 # note - request file created using the add file github feature 
