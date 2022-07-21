@@ -1,0 +1,9 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf-data3.ceda.ac.uk
+source_id=CanESM5
+experiment_id=ssp119 ssp126 ssp245 ssp370
+#member_id=r1i1p1f1 r2i1p1f1 
+member_id=r1i1p1f1 r2i1p1f1 r1i1p2f1 r2i1p2f1 
+variable_id=areacella areacello fgco2 intpp nbp o2 ph volcello
