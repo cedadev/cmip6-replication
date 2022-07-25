@@ -1,0 +1,13 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf-data.ceda.ac.uk
+
+# add search filters below
+# values can be single value or space-separated list of alternatives
+
+experiment_id=historical ssp585
+table_id=Omon
+variable_id=intpp no3
+member_id=r1i1p1f1
+
