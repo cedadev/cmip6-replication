@@ -1,0 +1,13 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+# add search filters below
+# values can be single value or space-separated list of alternatives
+
+table_id=Omon Lmon Amon
+variable_id=fgco2 nbp tas
+source_id=CanESM5-CanOE CESM2-WACCM ACCESS-ESM1-5 MPI-ESM1-2-LR
+member_id=r2i1p1f1 r3i1p1f1
+
