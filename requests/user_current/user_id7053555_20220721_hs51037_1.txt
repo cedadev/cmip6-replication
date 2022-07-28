@@ -1,0 +1,23 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+# add search filters below
+# values can be single value or space-separated list of alternatives
+
+activity_drs=LUMIP
+institution_id=BCC
+source_id=BCC-CSM2-MR
+experiment_id=hist-noLu
+member_id=r1i1p1f1
+table_id=Amon
+variable_id=pr
+# grid_label=
+
+# === other possibly useful facets
+# cf_standard_name=
+# frequency= 
+# variable_longname=
+# data_node= 
+# index_node= 
