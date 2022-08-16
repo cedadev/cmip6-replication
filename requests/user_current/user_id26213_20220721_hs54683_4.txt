@@ -1,0 +1,14 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+mip_era=CMIP6
+activity_drs=ScenarioMIP
+institution_id=MPI-M
+source_id=MPI-ESM1-2-LR
+experiment_id=ssp585
+member_id=r1i1p1f1 r2i1p1f1 r3i1p1f1 r4i1p1f1 r6i1p1f1 r7i1p1f1 r8i1p1f1 r9i1p1f1 r10i1p1f1
+table_id=Lmon
+variable_id=nbp
+grid_label=gn
