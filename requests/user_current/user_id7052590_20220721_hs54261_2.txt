@@ -1,0 +1,14 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+#
+# exact copy of _1 for retry purposes
+#
+
+experiment_id=historical ssp585
+variable_id=intpp no3
+table_id=Omon
+source_id=GFDL-ESM4 CESM2-WACCM-FV2 CESM2-FV2 CESM2 IPSL-CM6A-LR-INCA IPSL-CM5A2-INCA MPI-ESM-1-2-HAM CNRM-ESM2-1 MIROC-ES2L MRI-ESM2-0
+variant_label=r1i1p1f1 r1i1p1f2
