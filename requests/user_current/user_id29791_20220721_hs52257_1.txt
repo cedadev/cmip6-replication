@@ -1,0 +1,9 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+experiment_id=historical ssp119 ssp126 ssp245 ssp370 ssp585
+source_id=CESM2 CESM2-FV2 CESM2-WACCM-FV2 EC-Earth3-CC IPSL-CM5A2-INCA IPSL-CM6A-LR-INCA MPI-ESM-1-2-HAM MPI-ESM1-2-LR  
+member_id=r1i1p1f1
+variable_id=expc
