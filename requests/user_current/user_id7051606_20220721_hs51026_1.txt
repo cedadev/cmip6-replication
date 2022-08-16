@@ -1,0 +1,11 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+frequency=day
+variable_id=pr tas uas vas
+experiment_id=historical ssp119 ssp126 ssp245 ssp370 ssp585
+source_id=ACCESS-CM2 ACCESS-ESM1-5 AWI-CM-1-1-MR BCC-CSM2-MR CESM2-WACCM CIESM CMCC-CM2-SR5 CMCC-ESM2 EC-Earth3 EC-Earth3-Veg FGOALS-f3-L FGOALS-g3 FIO-ESM-2-0 GFDL-ESM4 INM-CM4-8 IPSL-CM6A-LR KACE-1-0-G MIROC6 MPI-ESM1-2-LR MRI-ESM2-0 NESM3 NorESM2-LM NorESM2-MM TaiESM1
+variant_label=r1i1p1f1
+

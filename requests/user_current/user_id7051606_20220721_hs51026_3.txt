@@ -1,0 +1,11 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+frequency=day
+variable_id=pr tas uas vas
+experiment_id=historical ssp119 ssp126 ssp245 ssp370 ssp585
+source_id=CanESM5
+variant_label=r1i1p2f1
+
