@@ -1,0 +1,12 @@
+project=CMIP6
+latest=true
+#replica=false
+#data_node!=esgf-data.ceda.ac.uk
+#data_node=esgf-node2.cmcc.it
+data_node=esgf-data1.llnl.gov
+
+# Synda search for master copy at CMCC fails for some reason.
+# Will download LLNL replica.
+
+master_id=CMIP6.ScenarioMIP.CMCC.CMCC-ESM2.ssp370.r1i1p1f1.Omon.intpp.gn
+
