@@ -1,0 +1,10 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+source_id=ACCESS-CM2
+experiment_id=piControl
+member_id=r1i1p1f1
+table_id=Emon
+variable_id=osaltpsmadvect osaltpsmadvect opottempmint osaltpadvect osaltdiff osalttend osaltpmdiff osaltrmadvect

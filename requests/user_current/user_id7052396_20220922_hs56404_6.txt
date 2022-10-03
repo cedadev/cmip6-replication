@@ -1,0 +1,10 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+source_id=MIROC6
+experiment_id=piControl
+member_id=r1i1p1f1
+table_id=Oyr
+variable_id:opottemprmadvect opottemppadvect opottemppmdiff opottempdiff opottemptend osaltpadvect osaltpmdiff osaltdiff osaltrmadvect osalttend
