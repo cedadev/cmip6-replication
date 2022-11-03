@@ -1,0 +1,15 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+mip_era=CMIP6
+activity_drs=CMIP
+institution_id=NASA-GISS
+source_id=GISS-E2-2-G
+experiment_id=historical
+member_id=r1i1p1f1
+table_id=Amon
+variable_id=pr ua va
+# grid_label=
+
