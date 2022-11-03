@@ -1,0 +1,9 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+institution_id=BCC CCCma CMCC CNRM-CERFACS EC-Earth-Consortium IPSL MIROC MOHC MPI-M NCC
+experiment_id=dcppA-hindcast
+table_id=Amon
+variable_id=tas rsds 
