@@ -1,0 +1,24 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+# add search filters below
+# values can be single value or space-separated list of alternatives
+
+# === search facets that are used in dataset ID ===
+# mip_era=
+# activity_drs=
+# institution_id=
+# source_id=
+experiment_id=abrupt-4xCO2 piControl
+member_id=r1i1p1f1 r1i1p1f2 r1i1p1f3 r1i1p2f1 r1i1p2f2 r1i1p3f1 r1i1p3f2 r1i1p4f2 r1i1p5f1
+table_id=Amon
+variable_id=tauu tauv hfls hfss tas
+#grid_label=
+
+# === other possibly useful facets
+# frequency= 
+# variable_longname=
+# data_node= 
+# index_node= 
