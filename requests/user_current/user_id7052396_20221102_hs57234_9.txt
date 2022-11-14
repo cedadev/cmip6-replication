@@ -1,0 +1,10 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+table_id=Omon
+variable_id=hfds so thetao
+source_id=IPSL-CM6A-LR
+experiment_id=historical
+member_id=r10i1p1f1

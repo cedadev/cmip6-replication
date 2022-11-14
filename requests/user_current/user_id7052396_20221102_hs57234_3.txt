@@ -1,0 +1,10 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+table_id=Omon
+source_id=NorESM2-LM
+experiment_id=historical
+member_id=r2i1p1f1
+variable_id=thetao so

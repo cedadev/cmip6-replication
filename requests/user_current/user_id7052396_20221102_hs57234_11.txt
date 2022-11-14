@@ -1,0 +1,12 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+table_id=Omon
+variable_id=hfds so thetao
+source_id=MIROC6
+experiment_id=hist-GHG hist-aer historical
+#member_id=r10i1p1f1 r1i1p1f1 r2i1p1f1 r3i1p1f1 r4i1p1f1 r5i1p1f1 r6i1p1f1 r7i1p1f1 r8i1p1f1 r9i1p1f1
+member_id= r1i1p1f1 r2i1p1f1 r3i1p1f1 r4i1p1f1 r5i1p1f1
+
