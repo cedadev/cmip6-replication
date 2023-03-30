@@ -1,0 +1,12 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+realm=atmos
+mip_era=CMIP6
+activity_drs=CFMIP
+experiment_id=amip-piForcing
+table_id=Amon
+variant_label=r1i1p1f1 r1i1p1f2 r1i1p2f1
+variable_id=ci cl cli clivi clw clwvi hfls hfss hur hurs hus huss rlds rldscs rlus rlut rlutcs rsds rsdscs rsdt rsus rsuscs rsut rsutcs sfcWind ta tas tntr tntrl tntrlcs tntrs tntrscs ts ua va wap zg
