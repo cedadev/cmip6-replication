@@ -1,0 +1,11 @@
+
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+table_id=Amon
+variable_id=rsut rsutcs rlut rlutcs wap ts tas pr prc clt clwvi clivi clisccp ps plev huss cltisccp albisccp pctisccp clisccp cltcalipso cllcalipso clmcalipso clhcalipso clcalipso areacella
+
+experiment_id=piControl abrupt-4xCO2 amip
+member_id=r1i1p3f1
+source_id=GISS-E2-2-G
