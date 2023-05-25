@@ -1,0 +1,11 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+variable_id= hfds so thetao
+table_id= Omon
+source_id=ACCESS-ESM1-5
+experiment_id=historical
+variant_label=r2i1p1f1 r3i1p1f1
+
