@@ -1,0 +1,29 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+# add search filters below
+# values can be single value or space-separated list of alternatives
+
+# === search facets that are used in dataset ID ===
+# mip_era=
+# institution_id=
+
+frequency=mon
+source_id=ACCESS-ESM1-5 CanESM5 CESM2 EC-Earth3 GISS-E2-G HadGEM3-LL IPSL-CM6A-LR MIROC6 MIROC-ES2L MPI-ESM1-2-LR UKESM1-0-LL
+variable_id=tas pr uas
+experiment_id=ssp245 ssp370
+activity_drs=ScenarioMIP
+
+
+# member_id=
+# table_id=
+# variable_id=
+# grid_label=
+
+# === other possibly useful facets
+# frequency= 
+# variable_longname=
+# data_node= 
+# index_node= 
