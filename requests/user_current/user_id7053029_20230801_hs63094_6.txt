@@ -1,0 +1,13 @@
+
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+activity_drs=ScenarioMIP
+experiment_id=ssp585
+grid_label=gn
+table_id=day
+variable_id=ua
+source_id=MIROC-ES2L
+member_id=r1i1p1f2 r2i1p1f2 r3i1p1f2 r4i1p1f2 r5i1p1f2 r6i1p1f2 r7i1p1f2 r8i1p1f2 r9i1p1f2 r10i1p1f2
