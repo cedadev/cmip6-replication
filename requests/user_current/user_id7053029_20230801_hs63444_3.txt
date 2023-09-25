@@ -1,0 +1,12 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+variable_id=hfds
+table_id=Omon
+source_id=MRI-ESM2-0
+experiment_id=piControl
+member_id=r1i1p1f1
+grid_label=gn
+
