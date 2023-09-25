@@ -1,0 +1,24 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+# add search filters below
+# values can be single value or space-separated list of alternatives
+
+# === search facets that are used in dataset ID ===
+mip_era=CMIP6
+activity_drs=CMIP
+# institution_id=
+source_id=GFDL-CM4 IPSL-CM6A-LR UKESM1-0-LL IPSL-CM5A-LR MRI-ESM2-0 HadGEM3-GC31-LL HadGEM2-ES MIROC6 IPSL-CM5A-MR CanESM5 E3SM-1-0 MRI-CGCM3 MIROC-ES2L
+experiment_id=historical
+member_id=r1i1p1f1 r1i1p1f2
+table_id=day
+variable_id=hur
+#grid_label=
+
+# === other possibly useful facets
+# frequency= 
+# variable_longname=
+# data_node= 
+# index_node= 
