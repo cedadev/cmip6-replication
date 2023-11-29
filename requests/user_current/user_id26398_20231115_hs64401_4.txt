@@ -1,0 +1,10 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+table_id=Amon
+variable_id=albisccp areacella cl clc clcalipso clhcalipso cli clisccp clisccp clivi cllcalipso clmcalipso cls clt cltcalipso cltisccp clw clwvi huss pctisccp plev pr prc ps rlut rlutcs rsut rsutcs tas ts wap
+experiment_id=amip amip-p4K amip-future4K
+member_id=r2i1p1f1
+institution_id=E3SM-Project LLNL
+source_id=E3SM-1-0
