@@ -1,0 +1,27 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+variable_id=mc,mcu
+experiment_id=control-1950,highres-future
+
+# add search filters below
+# values can be single value or space-separated list of alternatives
+
+# === search facets that are used in dataset ID ===
+# mip_era=
+# activity_drs=
+# institution_id=
+# source_id=
+# experiment_id=
+# member_id=
+# table_id=
+
+# grid_label=
+
+# === other possibly useful facets
+# frequency= 
+# variable_longname=
+# data_node= 
+# index_node= 
