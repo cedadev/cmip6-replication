@@ -1,0 +1,27 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+# add search filters below
+# values can be single value or space-separated list of alternatives
+
+# === search facets that are used in dataset ID ===
+mip_era=CMIP6
+activity_drs=CFMIP
+
+#institution_id=
+source_id=CESM2 CNRM-CM6-1 CanESM5 MRI-ESM2-0
+
+experiment_id=abrupt-0p5xCO2
+member_id=r1i1p1f1 r1i1p1f2
+
+table_id=SImon
+variable_id=siconc
+grid_label=gn
+
+# === other possibly useful facets
+# frequency= 
+# variable_longname=
+# data_node= 
+# index_node= 
