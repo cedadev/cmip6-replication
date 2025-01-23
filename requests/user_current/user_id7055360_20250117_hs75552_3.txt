@@ -1,0 +1,18 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+#source_id=CESM2 IPSL-CM6A-LR MRI-ESM2-0
+#member_id=r1i1p1f1
+
+#source_id=CanESM5
+#member_id=r1i1p2f1
+
+source_id=CNRM-CM6-1
+member_id=r1i1p1f2
+
+experiment_id=abrupt-2xCO2 abrupt-0p5xCO2 abrupt-solp4p abrupt-solm4p abrupt-4xCO2
+ 
+table_id=Amon
+variable_id=rsdt rsut rlut rsutcs rlutcs tas ta ts ps hur uas vas ua va wap
