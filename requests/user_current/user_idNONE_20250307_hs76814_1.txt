@@ -1,0 +1,10 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+experiment_id=past1000,past2k
+table_id=Amon,Omon,SImon
+variable_id=cl,cli,clivi,clt,clw,clwvi,hfls,hfss,hur,hurs,hus,huss,odaer550,pr,prw,ps,rlds,rldscs,rlus,rlut,rlutcs,rsds,rsdscs,rsdt,rsus,rsuscs,rsut,rsutcs,siconc,sithick,so,sos,ta,tas,thetao,tos,ts,ua,uas,va,vas,wap,zg,mlotst
+frequency=mon
+#member_id=r1i1p1f1

@@ -1,0 +1,8 @@
+project=CMIP6
+latest=true
+replica=false
+data_node!=esgf.ceda.ac.uk
+
+experiment_id=past1000,past2k
+table_id=fx
+variable_id=sftlf
