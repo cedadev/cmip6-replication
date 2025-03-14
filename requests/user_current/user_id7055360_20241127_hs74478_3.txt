@@ -1,0 +1,13 @@
+#project=CMIP6
+#latest=true
+#replica=false
+data_node!=esgf.ceda.ac.uk
+
+#CMIP6.CFMIP.AS-RCEC.TaiESM1.amip-m4K.r1i1p1f1.Amon.ts.gn.v20200929
+#CMIP6.CFMIP.CCCma.CanESM5.amip-m4K.r1i1p2f1.Amon.ts.gn.v20200929
+CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-m4K.r1i1p1f1.Amon.uas.gn.v20190625
+CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-m4K.r1i1p1f1.Amon.vas.gn.v20190625
+CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-p4K.r1i1p1f1.Amon.uas.gn.v20190625
+CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-p4K.r1i1p1f1.Amon.vas.gn.v20190625
+CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-piForcing.r1i1p1f1.Amon.uas.gn.v20190927
+CMIP6.CFMIP.MRI.MRI-ESM2-0.amip-piForcing.r1i1p1f1.Amon.vas.gn.v20190927
